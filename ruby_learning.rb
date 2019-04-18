@@ -2,4 +2,15 @@ puts 'Hello, world!'
 print 'Hello '
 print ',world!'
 p 'Hello, world!'
-p 3
+
+#integer
+p 13 / 2
+
+#float
+p 13.0 / 2.0
+
+# 2 * 2 * 2
+p 2 ** 3
+
+#remainder
+p 13 % 4

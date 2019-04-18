@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ruby_learning.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -126,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555511111060</updated>
       <workItem from="1555511113358" duration="1098000" />
-      <workItem from="1555512962519" duration="2353000" />
+      <workItem from="1555512962519" duration="3280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3451000" />
+    <option name="totallyTimeSpent" value="4378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,14 +171,14 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555515989602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555571489465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RubyLearning0.rb" />
     <entry file="file://$PROJECT_DIR$/ruby_learning.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
