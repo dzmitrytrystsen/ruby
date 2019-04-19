@@ -13,4 +13,4 @@ user_name = gets.chomp
 puts 'Enter your age:'
 user_age = gets.chomp.to_i
 
-puts "Name is: #{user_name}. Age is: #{user_age}"
+puts "Name is: #{user_name}. Age is: #{user_age}"select
