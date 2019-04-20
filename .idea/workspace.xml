@@ -91,7 +91,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
     <option name="width" value="948" />
     <option name="height" value="1050" />
   </component>
@@ -301,11 +302,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ruby@odd__even__methods.rcov" NAME="odd?_even?_methods Coverage Results" MODIFIED="1555661056153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555572218336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@variables.rcov" NAME="variables Coverage Results" MODIFIED="1555575408585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@arithmetic_methods.rcov" NAME="arithmetic_methods Coverage Results" MODIFIED="1555671998802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@object_methods.rcov" NAME="object_methods Coverage Results" MODIFIED="1555577237027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@variables.rcov" NAME="variables Coverage Results" MODIFIED="1555575408585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@gets_chomp_methods.rcov" NAME="gets_chomp_methods Coverage Results" MODIFIED="1555580513873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555572218336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@object_methods.rcov" NAME="object_methods Coverage Results" MODIFIED="1555577237027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RubyLearning0.rb" />
