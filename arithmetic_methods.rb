@@ -17,3 +17,7 @@ p 10.456.round
 p 10.456.round(2)
 p -5.abs
 p 5.abs
+
+a = 10
+a += 5 # a = a + 5
+p a
