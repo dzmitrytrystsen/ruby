@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f597f4b3-5df4-4ca1-9175-3459df5b6984" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/arithmetic_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic_methods.rb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ruby_learning.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,6 +86,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bang_method.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
             </state>
           </provider>
         </entry>
@@ -105,15 +118,21 @@
         <option value="$PROJECT_DIR$/gets_chomp_methods.rb" />
         <option value="$PROJECT_DIR$/odd?_even?_methods.rb" />
         <option value="$PROJECT_DIR$/arithmetic_methods.rb" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/time_method.rb" />
         <option value="$PROJECT_DIR$/strings.rb" />
         <option value="$PROJECT_DIR$/methods.rb" />
         <option value="$PROJECT_DIR$/conditions.rb" />
+=======
+        <option value="$PROJECT_DIR$/extracting_character.rb" />
+        <option value="$PROJECT_DIR$/bang_method.rb" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
     <option name="width" value="948" />
     <option name="height" value="1050" />
   </component>
@@ -125,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,24 +151,18 @@
               <item name="ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; RVM: ruby-2.4.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +176,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Ruby.conditions">
+=======
+  <component name="RunManager" selected="Ruby.bang_method">
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
     <configuration name="arithmetic_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -183,7 +199,11 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="conditions" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+    <configuration name="bang_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -197,11 +217,19 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/conditions.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bang_method.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extracting_character" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -215,11 +243,19 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/methods.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="strings" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/extracting_character.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gets_chomp_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -233,11 +269,19 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/strings.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="time_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/gets_chomp_methods.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="odd?_even?_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -251,17 +295,29 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/time_method.rb" />
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/odd?_even?_methods.rb" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Ruby.conditions" />
         <item itemvalue="Ruby.methods" />
         <item itemvalue="Ruby.strings" />
         <item itemvalue="Ruby.time_method" />
         <item itemvalue="Ruby.arithmetic_methods" />
+=======
+        <item itemvalue="Ruby.bang_method" />
+        <item itemvalue="Ruby.extracting_character" />
+        <item itemvalue="Ruby.arithmetic_methods" />
+        <item itemvalue="Ruby.odd?_even?_methods" />
+        <item itemvalue="Ruby.gets_chomp_methods" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       </list>
     </recent_temporary>
   </component>
@@ -277,12 +333,22 @@
       <option name="presentableId" value="Default" />
       <updated>1555511111060</updated>
       <workItem from="1555511113358" duration="1098000" />
+<<<<<<< HEAD
       <workItem from="1555512962519" duration="42923000" />
+=======
+      <workItem from="1555512962519" duration="20900000" />
+      <workItem from="1555761308482" duration="669000" />
+      <workItem from="1555762195425" duration="6012000" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="44021000" />
+=======
+    <option name="totallyTimeSpent" value="28679000" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,34 +360,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="732" y="0" width="948" height="1050" extended-state="0" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27740493" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1444383" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.251634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.28213507" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.174482" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28213507" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110865" side_tool="true" weight="0.25054705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="right" id="Run" order="4" sideWeight="0.49889135" side_tool="true" visible="true" weight="0.36081904" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/ruby@strings.rcov" NAME="strings Coverage Results" MODIFIED="1555918185873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@odd__even__methods.rcov" NAME="odd?_even?_methods Coverage Results" MODIFIED="1555661056153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555572218336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
@@ -331,13 +402,23 @@
     <SUITE FILE_PATH="coverage/ruby@arithmetic_methods.rcov" NAME="arithmetic_methods Coverage Results" MODIFIED="1555672515255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@conditions.rcov" NAME="conditions Coverage Results" MODIFIED="1555945780594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@object_methods.rcov" NAME="object_methods Coverage Results" MODIFIED="1555577237027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+=======
+    <SUITE FILE_PATH="coverage/ruby@odd__even__methods.rcov" NAME="odd?_even?_methods Coverage Results" MODIFIED="1555762199837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@arithmetic_methods.rcov" NAME="arithmetic_methods Coverage Results" MODIFIED="1555762358282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@extracting_character.rcov" NAME="extracting_character Coverage Results" MODIFIED="1555768028606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@bang_method.rcov" NAME="bang_method Coverage Results" MODIFIED="1555769207381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@variables.rcov" NAME="variables Coverage Results" MODIFIED="1555575408585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
     <SUITE FILE_PATH="coverage/ruby@gets_chomp_methods.rcov" NAME="gets_chomp_methods Coverage Results" MODIFIED="1555580513873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ruby_learning.rcov" NAME="ruby_learning Coverage Results" MODIFIED="1555572218336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@object_methods.rcov" NAME="object_methods Coverage Results" MODIFIED="1555577237027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RubyLearning0.rb" />
     <entry file="file://$PROJECT_DIR$/variables.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+<<<<<<< HEAD
           <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
@@ -346,13 +427,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_learning.rb">
+    <entry file="file://$PROJECT_DIR$/odd?_even?_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -371,6 +455,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arithmetic_methods.rb">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
@@ -378,12 +463,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/odd?_even?_methods.rb">
+=======
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/methods.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -402,6 +490,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/extracting_character.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby_learning.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bang_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+>>>>>>> 1957b3d8ae83bff28b2da454f19c3b807341c470
         </state>
       </provider>
     </entry>
