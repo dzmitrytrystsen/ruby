@@ -7,7 +7,6 @@ p 10./(2)
 p 10.div(2)
 p 10.%(3)
 p 10.modulo(3)
-=end
 
 p 567.between?(0, 550)
 
@@ -21,3 +20,6 @@ p 5.abs
 a = 10
 a += 5 # a = a + 5
 p a
+=end
+remainder =
+ 10.%(4)
