@@ -8,9 +8,9 @@ p name.upcase!
 p name
 =end
 
-p name.include?('dzm'.capitalize) #CASESENSETIVE!
+p name.include?('dzm'.capitalize) # CASESENSETIVE!
 p empty_string.empty? # is string empty?
 p empty_string.nil? # is there no any object?
 
-animal = "elephant"
+animal = 'elephant'
 p animal[2, 4]

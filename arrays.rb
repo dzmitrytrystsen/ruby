@@ -1,5 +1,5 @@
 =begin
-array = [['Borus', 25, true
+array = [['Boris', 25, true
          ['Ivan', 19, false],
          ['Denis', 54]]
 
@@ -16,9 +16,23 @@ p fruits[-1]
 p fruits.[](-1)
 p fruits.fetch(-1)
 p fruits.fetch(5, 'Unknown') # adding value to
-=end
+
 
 fruits = %w[Apple Orange Banana Grape]
 
 p fruits.values_at(0, 0, -1)
 p fruits.slice(0, 3)
+p fruits.count('Apple')
+=end
+
+fruits = %w[Apple Orange Banana Grape]
+array = %w[]
+
+p fruits.empty?
+p array.empty?
+p array.nil?
+
+ar = [1, 3, 5, 7, 9]
+p ar.first # return integer
+p ar.first(1) # return array
+p ar.last(1)
