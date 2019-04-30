@@ -23,10 +23,37 @@ words = %w[dictionary refrigerator platypus microwave]
 # registration = %w[[Bob Dan Jack],
 #                   [Rick, Susan, Molly],
 #                   [Dima, Ivan, Kate]]
-array = ['LOL, KEK']
-array_1 = ['Cheburek, looser']
-
+# array = ['LOL, KEK']
+# array_1 = ['Cheburek, looser']
 # p registration.flatten
 # p array.flatten # combine all arrays to one
+# p array.zip(array_1)
 
-p array.zip(array_1)
+# p words.sample # returns random item
+# p words.sample(3) # returns 3 random item
+
+# def custom_multiply(array, number)
+#   new_array = []
+#   number.times { new_array << array }
+#   new_array.flatten
+# end
+#
+# p custom_multiply([1, 2, 3], 3)
+
+# p [1, 2, 3, 3] | [3, 3, 4, 5] # Union - combine arrays uniq items
+# p [1, 2, 3, 3].|([3, 3, 4, 5])
+
+a = [1, 1, 2, 2, 3, 3, 3, 3, 4, 5]
+b = [1, 4, 5]
+
+# def custom_union(arr1, arr2)
+#   new_arr = []
+#   new_arr << arr1 << arr2
+#   new_arr.flatten.uniq
+# end
+#
+# p custom_union(a, b)
+# p a, b
+
+# p a - [2, 3] # remove item from array
+# p a & b # values are represent in both arrays
