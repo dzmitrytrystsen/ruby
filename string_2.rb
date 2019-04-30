@@ -39,16 +39,25 @@
 # sentence = 'Hello, Im QA Engineer. And I\'m funny'
 # p sentence.index('QA', 5) # 5 is starting position
 
-fact = 'I am very handsome.'
+# fact = 'I am very handsome.'
+#
+# def custom_index(string, substring)
+#   index = 0
+#   string.each_char do |char|
+#     index += 1
+#     substring.include?(char) ? break : return
+#   end
+#   index - 1
+# end
+#
+# p custom_index(fact, 'G')
+# p fact.index('ry')
 
-def custom_index(string, substring)
-  index = 0
-  string.each_char do |char|
-    index += 1
-    substring.include?(char) ? break : return
-  end
-  index - 1
-end
+# name = 'GeorgWashingto'
+# name.insert(-1, 'n!')
+# p name
 
-p custom_index(fact, 'G')
-p fact.index('ry')
+sentence = 'Thhe aaardvark jummped    ovver'
+p sentence.squeeze # remove duplicates
+p sentence.delete(' ') # delete string from string
+p sentence.clear # empty string
