@@ -1,5 +1,5 @@
-evens = [2, 4, 6, 8]
-odds = [1, 3, 5, 7]
+# evens = [2, 4, 6, 8]
+# odds = [1, 3, 5, 7]
 #
 # evens.each do |number|
 #   p number**2
@@ -48,5 +48,23 @@ odds = [1, 3, 5, 7]
 #
 # hi.call # call the proc itself
 
-p %w[1 2 3 4].map {|num| num.to_i }
-p %w[1 2 3 4].map(&:to_i) # using ruby method as proc
+# p %w[1 2 3 4].map {|num| num.to_i }
+# p %w[1 2 3 4].map(&:to_i) # using ruby method as proc
+# def talk_about(name, &myprc)
+#   p "Let me tell you about #{name}."
+#   yield(name)
+# end
+#
+# good_things = proc do |name|
+#   p "#{name} is a genius!"
+# end
+#
+# bad_things = proc do |name|
+#   p "#{name} is a dolt!"
+# end
+#
+# talk_about('Dzmitry', &good_things)
+
+squares_lambda = ->(num) { num**2 } # The same is = lambda { |num| num**2 }
+
+p [1, 2, 3].map(&squares_lambda)
