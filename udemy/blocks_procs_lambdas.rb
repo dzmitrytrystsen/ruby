@@ -65,6 +65,14 @@
 #
 # talk_about('Dzmitry', &good_things)
 
-squares_lambda = ->(num) { num**2 } # The same is = lambda { |num| num**2 }
+# squares_lambda = ->(num) { num**2 } # The same is = lambda { |num| num**2 }
+#
+# p [1, 2, 3].map(&squares_lambda)
 
-p [1, 2, 3].map(&squares_lambda)
+to_euros = ->(dollars) { dollars * 0.95 }
+
+def convert(dollars, currency_lambda)
+  currency_lambda.call(dollars) if dollars.is_a?(Numeric)
+end
+
+p convert(100, to_euros)
