@@ -1,0 +1,2 @@
+Creating first line with Ruby! (with puts)
+Creating second line with Ruby! (with write)
