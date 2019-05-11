@@ -8,4 +8,3 @@ require './end.rb' # works only once
 require './end.rb'
 
 require_relative 'end' # looks in current directory
-
