@@ -24,4 +24,6 @@ phrase = '234 77 The Ruby, is, very. very. cool 1-45-789.'
 
 # p phrase.scan(/[^aeiouAEIOU,\s\d\.\-]/) # ^ exclude symbol
 
-
+p 'winter'.sub('w', 'green') # replacing char (first occurrence)
+p 'an apple'.tr('a', '-') # replace all chars
+p '(555)-555 1234'.gsub(/[-\s\(\)]/, '')
