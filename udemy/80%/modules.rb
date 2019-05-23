@@ -1,7 +1,19 @@
 module LengthConversions
-    WEBSITE = 'https://realt.onliner.by/2019/05/21/svetlana-2'
+  WEBSITE = 'https://realt.onliner.by/2019/05/21/svetlana-2'
 
-    def self.miles_to_feet(miles)
-        
-    end
+  def self.miles_to_feet(miles)
+    miles * 5280
+  end
+
+  def self.miles_to_inches(miles)
+    feet = miles_to_feet(miles)
+    feet * 12
+  end
+
+  def self.miles_to_centimeteres(miles)
+    inches = miles_to_inches(miles)
+    inches * 2.54
+  end
 end
+
+puts LengthConversions.miles_to_feet()
