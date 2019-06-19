@@ -1,3 +1,5 @@
+require_relative 'app_store'
+
 class Gadget
   attr_reader :production_number, :apps
   attr_accessor :username
@@ -17,6 +19,16 @@ class Gadget
 
   def password=(new_password)
     @password = new_password if validate_password(new_password)
+  end
+
+  def install_app(name)
+    app = AppStore.find_app(name)
+    @apps << app unless @apps.include?(app)
+  end
+
+  def delete_app(name)
+    app = apps.find { |installed_app| installed_app.name == name }
+    apps.delete(app) unless app.nil?
   end
 
   def reset(username, password)
